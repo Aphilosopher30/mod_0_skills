@@ -1,0 +1,12 @@
+Servers
+
+name = "Suzen Someone"
+tips_earned = 14.23
+current_tables = []
+is_on_duty = False
+
+
+work_shift (changes is_on_duty to true, and sets current_tables to ["Table_1", "Table_2" ,"Table_3"])
+serve_table  (tips_earned gains 2.53 and increases to 16.76)
+introduces_self (prints out "hello, i'm Suzen Someone, and I will be your server")
+add_table  (current_tables now equals ["Table_1", "Table_2" ,"Table_3", "Both_5"])
