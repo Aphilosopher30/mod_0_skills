@@ -1,0 +1,15 @@
+food = "taco"
+is_delicious = true
+
+food = "more tacos!"
+
+num2 = 2
+num7 = 7
+
+quotient = 7/2
+
+songs = ["bethoven's 5th", "Sonata op. 34","Clear DeLune"]
+
+songs.delete_at(0)
+
+food.length
