@@ -3,7 +3,7 @@ Servers
 name = "Suzen Someone"
 tips_earned = 14.23
 current_tables = []
-is_on_duty = False
+is_on_duty = false
 
 
 work_shift (changes is_on_duty to true, and sets current_tables to ["Table_1", "Table_2" ,"Table_3"])

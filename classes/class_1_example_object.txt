@@ -1,12 +1,12 @@
 Table_3
 
-is_ocupied = False
+is_ocupied = false
 number_of_seats = 4
 current_server = "Suzen"
-is_dirty = False
+is_dirty = false
 
 
 change_server (current_server changes from "Suzen" to "Rob")
-reserve_table (is_occupied becomes True)
+reserve_table (is_occupied becomes true)
 add_chair  (number_of_seats  seats increases from 4 to 5)
-clean_table (is_dirty stays False)
+clean_table (is_dirty stays talse)
