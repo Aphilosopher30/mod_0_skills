@@ -1,0 +1,12 @@
+Servers
+
+name (string)
+tips_earned (float)
+current_tables (array)
+is_on_duty (boolean)
+
+
+work_shift (sets is_on_duty to Ture, and sets  current_tables to a specific array)
+serve_table  (increases tips_earned by some amount)
+introduces_self (prints name + greeting)
+add_table  (adds a table to current_tables)
