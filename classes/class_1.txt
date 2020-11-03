@@ -1,0 +1,12 @@
+tables
+
+is_ocupied (boolean)
+number_of_seats (integer)
+current_server (string)
+is_dirty (boolean)
+
+
+change_server (changes which server is listed as the waiter that is serving that tables)
+reserve_table (sets is_ocupied to true)
+add_chair  (increases the number_of_seats by 1)
+clean_table (it will set is_dirty to False)
